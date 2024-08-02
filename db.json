@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "name": "Product 7 12",
+      "price": 12.99,
+      "image": "https://picsum.photos/id/16/300/300",
+      "description": "This is product 7",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 17.99,
+      "image": "https://picsum.photos/id/17/300/300",
+      "description": "This is product 8",
+      "discount": 0.1,
+      "quantity": 80,
+      "featured": true,
+      "categoryId": 1
+    },
+    {
+      "name": "san pham 3",
+      "price": "3000",
+      "image": "2333",
+      "description": "werg 1234",
+      "id": "fd01"
+    },
+    {
+      "id": "eef7",
+      "name": "Product 7   update",
+      "price": "3000",
+      "image": "https://picsum.photos/200/300",
+      "description": "qqq"
+    }
+  ],
+  "users": [
+    {
+      "email": "hang@gmail.com",
+      "password": "$2a$10$pWW3WG03pIU1TgULwTvWaue9bLsHJ2PxgpOns30/.uGp9o7ctlT.u",
+      "cofirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "hang12@gmail.com",
+      "password": "$2a$10$2Zqz6.Iownk1UAdXTjkm6.ya82wodQph6cnfdAA5ZgiYbg3d1JHKC",
+      "cofirmPassword": "123456",
+      "id": 2
+    }
+  ]
+}
